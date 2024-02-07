@@ -575,6 +575,7 @@ namespace Bfres.Structs
                 case ShaderParamType.Float2x2:
                 case ShaderParamType.Float2x3:
                 case ShaderParamType.Float2x4:
+                case ShaderParamType.Float3x4:
                 case ShaderParamType.Float4x2:
                 case ShaderParamType.Float4x3:
                 case ShaderParamType.Float4x4:
@@ -623,6 +624,7 @@ namespace Bfres.Structs
                 case ShaderParamType.Float2x2:
                 case ShaderParamType.Float2x3:
                 case ShaderParamType.Float2x4:
+                case ShaderParamType.Float3x4:
                 case ShaderParamType.Float4x2:
                 case ShaderParamType.Float4x3:
                 case ShaderParamType.Float4x4:
